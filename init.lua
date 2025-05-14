@@ -44,6 +44,8 @@ lspconfig.volar.setup {
     },
   },
 }
+lspconfig.clangd.setup {}
+
 
 lspconfig.html.setup{}
 
